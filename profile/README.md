@@ -7,20 +7,16 @@
 <div align="center">
   <a href="" style="text-decoration:none;">
     <img src="" width="3%" alt="" /></a>
-  <img src="" width="3%" alt="" />
   <a href="" style="text-decoration:none;">
     <img src="" width="3%" alt="" /></a>
-  <img src=".png" width="3%" alt="" />
   <a href="https://twitter.com/xmartlabs" style="text-decoration:none;">
-    <img src=log.png" width="3%" alt="" /></a>
-  <img src=".png" width="3%" alt="" />
+    <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-tw.png" width="3%" alt="" /></a>
   <a href="https://www.linkedin.com/company/xmartlabs" style="text-decoration:none;">
-    <img src="logo-so.png" width="3%" alt="" /></a>
+    <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-ln.png" width="5%" alt="" /></a>
   <a href="https://www.youtube.com/channel/UCq8XgI0bndI0Jb_GGDB1jjg" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-yt.png" width="3%" alt="" /></a>
-  <img src="" width="3%" alt="" />
+    <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-yt.png" width="5%" alt="" /></a>
   <a href="https://www.instagram.com/xmartlabs/" style="text-decoration:none;">
-    <img src="" width="3%" alt="" /></a>
+    <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-ig.png" width="5%" alt="" /></a>
 </div>
 
 Xmartlabs is a digital product studio that, since 2012, has aimed to help developers build and scale their products by providing them with powerful tools and frameworks through our open-source work.

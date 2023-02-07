@@ -14,14 +14,13 @@
   <a href="https://twitter.com/xmartlabs" style="text-decoration:none;">
     <img src=log.png" width="3%" alt="" /></a>
   <img src=".png" width="3%" alt="" />
-  <a href="https://www.linkedin.com/company/xmar" style="text-decoration:none;">
-    <img src=logo-so.png" width="3%" alt="" /></a>
-  <img src=".png" width="3%" alt="" />
-  <a href="https://youtube.com/xmartlabs" style="text-decoration:none;">
-    <img src=log.png" width="3%" alt="" /></a>
-  <img src=".png" width="3%" alt="" />
+  <a href="https://www.linkedin.com/company/xmartlabs" style="text-decoration:none;">
+    <img src="logo-so.png" width="3%" alt="" /></a>
+  <a href="https://www.youtube.com/channel/UCq8XgI0bndI0Jb_GGDB1jjg" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-yt.png" width="3%" alt="" /></a>
+  <img src="" width="3%" alt="" />
   <a href="https://www.instagram.com/xmartlabs/" style="text-decoration:none;">
-    <img src=logo-.png" width="3%" alt="" /></a>
+    <img src="" width="3%" alt="" /></a>
 </div>
 
 Xmartlabs is a digital product studio that, since 2012, has aimed to help developers build and scale their products by providing them with powerful tools and frameworks through our open-source work.

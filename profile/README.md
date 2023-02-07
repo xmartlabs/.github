@@ -1,16 +1,14 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://xmartlabs.com/">
   <img width="900" src=""></a>
-</p>
+</p> -->
 
 
 <div align="center">
-  <a href="" style="text-decoration:none;">
-    <img src="" width="3%" alt="" /></a>
-  <a href="" style="text-decoration:none;">
-    <img src="" width="3%" alt="" /></a>
+  <a href="https://xmartlabs.com" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-web.png" width="5%" alt="" /></a>
   <a href="https://twitter.com/xmartlabs" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-tw.png" width="3%" alt="" /></a>
+    <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-tw.png" width="5%" alt="" /></a>
   <a href="https://www.linkedin.com/company/xmartlabs" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-ln.png" width="5%" alt="" /></a>
   <a href="https://www.youtube.com/channel/UCq8XgI0bndI0Jb_GGDB1jjg" style="text-decoration:none;">

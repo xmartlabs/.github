@@ -35,3 +35,24 @@ Sharing our knowledge and best practices with the community is part of Xmartlabs
   <img width="900" src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-stats.png"></a>
 </p>
 
+**Some of the companies that choose our tech:**
+
+<p align="center">
+  <img width="900" src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-logos.gif"></a>
+</p>
+
+👉 Learn more about our OSS work and its impact here: [https://xmartlabs.com/community](https://xmartlabs.com/community)
+
+### **Some of our open-source products**
+
+- [**PagerTabStripView](https://github.com/xmartlabs/PagerTabStripView):**  Interactive pager view component in pure SwiftUI for swiping or tab-based navigation.
+- [**Eureka**](https://github.com/xmartlabs/Eureka): Easily build dynamic table-view forms in Swift.
+- [**Bender**](https://github.com/xmartlabs/Bender): Abstraction layer over MetalPerformanceShaders for working with neural networks.
+
+📌 Take a look at our pinned projects below! 
+
+We welcome contributions from the community! If you're interested in contributing to our open-source projects, please read our **contributing guidelines** within each project. 
+
+## **Contact**
+
+If you have any questions or feedback, please don't hesitate to reach out to us at **`hi@xmartlabs.com`**

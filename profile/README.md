@@ -45,7 +45,7 @@ Sharing our knowledge and best practices with the community is part of Xmartlabs
 
 ### **Some of our open-source products**
 
-- [**PagerTabStripView](https://github.com/xmartlabs/PagerTabStripView):**  Interactive pager view component in pure SwiftUI for swiping or tab-based navigation.
+- [**PagerTabStripView**](https://github.com/xmartlabs/PagerTabStripView):**  Interactive pager view component in pure SwiftUI for swiping or tab-based navigation.
 - [**Eureka**](https://github.com/xmartlabs/Eureka): Easily build dynamic table-view forms in Swift.
 - [**Bender**](https://github.com/xmartlabs/Bender): Abstraction layer over MetalPerformanceShaders for working with neural networks.
 

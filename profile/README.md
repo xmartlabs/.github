@@ -7,12 +7,16 @@
 <div align="center">
   <a href="https://xmartlabs.com" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-web.png" width="5%" alt="" /></a>
+  <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-transparent.png" width="5%" alt="" />
   <a href="https://twitter.com/xmartlabs" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-tw.png" width="5%" alt="" /></a>
+  <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-transparent.png" width="5%" alt="" />
   <a href="https://www.linkedin.com/company/xmartlabs" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-ln.png" width="5%" alt="" /></a>
+  <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-transparent.png" width="5%" alt="" />
   <a href="https://www.youtube.com/channel/UCq8XgI0bndI0Jb_GGDB1jjg" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-yt.png" width="5%" alt="" /></a>
+  <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-transparent.png" width="5%" alt="" />
   <a href="https://www.instagram.com/xmartlabs/" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-ig.png" width="5%" alt="" /></a>
 </div>

@@ -30,3 +30,8 @@ We collaborate with many companies across many different industries, and our dev
 ## Made **by Xmartlabs with** ❤️
 
 Sharing our knowledge and best practices with the community is part of Xmartlabs’ identity.  Open source has always inspired us, and it's a key pillar of our culture and operational philosophy.
+
+<p align="center">
+  <img width="900" src="https://raw.githubusercontent.com/xmartlabs/.github/main/resources/xl-stats.png"></a>
+</p>
+
